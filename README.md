@@ -12,7 +12,7 @@ Aplikasi ini mendukung berbagai peran pengguna seperti admin, bendahara, kepala 
 - Melakukan pembayaran
 - Melihat status pendaftaran dan hasil seleksi
 
-### Admin PPDB
+### Admin PPDB (Penerimaan Peserta Didik Baru)
 - Mengelola akun siswa
 - Memverifikasi berkas pendaftaran
 - Mengelola data pendaftaran
